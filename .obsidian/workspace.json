@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "f3cd77f8e08e9943",
+    "type": "split",
+    "children": [
+      {
+        "id": "c18841758f01b089",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4eb880059b11a74d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01772a639f6dcc51",
+    "type": "split",
+    "children": [
+      {
+        "id": "44655ae4254b94c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8da2ec9bd772376",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5281c47ba8346b25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e95a41127ad8ac70",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5026054382324
+  },
+  "right": {
+    "id": "e1b7560165e72e70",
+    "type": "split",
+    "children": [
+      {
+        "id": "fff81f87f33c73ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64095583fc9fb5e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tech/git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f13dc733ec4a415a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tech/git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20ea78f337a80264",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e49f084ae517075c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tech/git.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4eb880059b11a74d",
+  "lastOpenFiles": [
+    "未命名.md",
+    "tech/ambari-2.7.5-and-HDP-3.1.5.md",
+    "tech/ceph-pg-num-config-create-pool.md",
+    "tech/centos7-open-bbr.md",
+    "tech/centos-too-many-password-attempts.md",
+    "tech/rpm-build-openssl.md",
+    "tech/_index.md",
+    "read/_index.md",
+    "life/_index.md",
+    "blog/_index.md",
+    "_index.md",
+    "tech/windows-fix-hosts.md",
+    "tech/shell-server-inspection.md",
+    "tech/shell-search-url-files.md",
+    "tech/shell-push-harbor.md",
+    "tech/shell-if.md",
+    "tech/shell-get-server-hardware-information.md",
+    "tech/shell-enable-debug-mode.md",
+    "tech/shell-different-execution-mode.md",
+    "tech/rpm-change-file.md",
+    "tech/rpm-build-openssh.md",
+    "tech/redhat-update-kernel.md",
+    "tech/record-of-program-test.md",
+    "tech/python3-change-pip-repo.md",
+    "tech/python-rename-file.md",
+    "tech/pxe-install-scripts.md",
+    "tech",
+    "read",
+    "life",
+    "blog"
+  ]
+}
