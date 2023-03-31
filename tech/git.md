@@ -95,7 +95,6 @@ git config --global core.safecrlf warn
 ## git clone 报错
 
 > fatal: early EOF 
->
 > fatal: fetch-pack: invalid index-pack output
 
 解决
