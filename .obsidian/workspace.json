@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c18841758f01b089",
+        "id": "b8a01de0e42f672a",
         "type": "tabs",
         "children": [
           {
-            "id": "4eb880059b11a74d",
+            "id": "d1c0055ea53b913a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/git.md",
-                "mode": "preview",
+                "file": "2023-03-31.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/git.md",
+                "file": "2023-03-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/git.md",
+                "file": "2023-03-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/git.md"
+                "file": "2023-03-31.md"
               }
+            }
+          },
+          {
+            "id": "375c815ddcb45c1f",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,11 +151,15 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "4eb880059b11a74d",
+  "active": "d1c0055ea53b913a",
   "lastOpenFiles": [
+    "blog/wordpress-load-image-failed.md",
+    "2023-03-31.md",
+    "tech/git.md",
     "未命名.md",
     "tech/ambari-2.7.5-and-HDP-3.1.5.md",
     "tech/ceph-pg-num-config-create-pool.md",
@@ -171,9 +183,6 @@
     "tech/rpm-build-openssh.md",
     "tech/redhat-update-kernel.md",
     "tech/record-of-program-test.md",
-    "tech/python3-change-pip-repo.md",
-    "tech/python-rename-file.md",
-    "tech/pxe-install-scripts.md",
     "tech",
     "read",
     "life",
