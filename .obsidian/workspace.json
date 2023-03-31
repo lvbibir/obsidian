@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b8a01de0e42f672a",
+        "id": "cbd35d9e36c9a237",
         "type": "tabs",
         "children": [
           {
-            "id": "d1c0055ea53b913a",
+            "id": "780813d0ee1bbdc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-03-31.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-03-31.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +147,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "375c815ddcb45c1f",
+  "active": "a8da2ec9bd772376",
   "lastOpenFiles": [
-    "blog/wordpress-load-image-failed.md",
+    "tech/rpm-build-openssh.md",
+    "git push.md",
     "2023-03-31.md",
+    "blog/wordpress-load-image-failed.md",
     "tech/git.md",
     "未命名.md",
     "tech/ambari-2.7.5-and-HDP-3.1.5.md",
@@ -181,9 +174,7 @@
     "tech/shell-enable-debug-mode.md",
     "tech/shell-different-execution-mode.md",
     "tech/rpm-change-file.md",
-    "tech/rpm-build-openssh.md",
     "tech/redhat-update-kernel.md",
-    "tech/record-of-program-test.md",
     "tech",
     "read",
     "life",
